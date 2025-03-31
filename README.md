@@ -57,5 +57,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - Based on the classic Snake game
-- Implemented for the INF1600 course at NTNU
-- Inspired by DeepMind's DQN paper 
+- Implemented for the INF1600 course at UIT
+- Inspired by DeepMind's DQN paper
